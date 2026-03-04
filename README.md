@@ -17,7 +17,7 @@ Todo o layout foi construído com HTML semântico e estilizado com CSS puro, sem
 ## Acesse o currículo
 
 Você pode visualizar o projeto publicado no GitHub Pages:  
-🔗 https://jaquelinevieira-dev.github.io/currículo/
+https://jaquelinevieira-dev.github.io/curriculo/
 
 ## Tecnologias utilizadas
 
