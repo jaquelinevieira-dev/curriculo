@@ -8,7 +8,7 @@ body {
     /* Centraliza o conteúdo da página */
     margin: auto;
     /* Define a cor do texto */
-    color: #444;
+    color: #555;
     /* Define a cor de fundo da página */
     background-color: #ccc;
     /* Adiciona uma margem inferior para separar do rodapé */
@@ -127,4 +127,5 @@ footer {
     padding: 10px;
     /* Define uma margem superior mais para separação */
     margin-top: 48px;
+
 }
